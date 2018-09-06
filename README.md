@@ -19,3 +19,7 @@
 
 ## 安全检测
 https://habo.qq.com/file/showdetail?pk=ADwGZF1tB2cIMFs5
+
+## 贴吧交流
+- 逆水寒科举，拼诗句的时候有没有很头疼？  http://tieba.baidu.com/p/5867625595
+- 凯哥逆水寒科举答题助手，截屏识别题目更快，不怕拼诗词名句 http://tieba.baidu.com/p/5870883749
