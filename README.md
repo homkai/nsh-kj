@@ -13,7 +13,7 @@
 - 普通题是查题库，拼诗词是从85W首古代诗词全集中，正则扫库的
 
 ## 使用
-- 下载nshkj xxx.exe
+- 下载nshkj.exe 链接：https://pan.baidu.com/s/10dwIroYH1w97bEm6-bS-EA 密码：7glf
 - 支持win7、win10 仅支持64位系统（逆水寒估计4G内存的32位系统的跑不起来吧）
 - **win7需下载.net 4.5运行库** https://www.microsoft.com/zh-CN/download/details.aspx?id=42642
 
